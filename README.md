@@ -1,1 +1,1 @@
-# exerc-cio-2
+# exercicio-2
